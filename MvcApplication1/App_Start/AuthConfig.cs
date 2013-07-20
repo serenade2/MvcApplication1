@@ -7,6 +7,7 @@ using MvcApplication1.Models;
 
 namespace MvcApplication1
 {
+    
     public static class AuthConfig
     {
         public static void RegisterAuth()
